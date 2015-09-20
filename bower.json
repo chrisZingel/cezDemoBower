@@ -1,0 +1,21 @@
+{
+  "name": "cezDemoBower",
+  "version": "0.0.0",
+  "authors": [
+    "Chris Zingel <chris@zingel.co.nz>"
+  ],
+  "main": "./demo-example.js",
+  "description": "A demo for usage in Rail's bunder",
+  "keywords": [
+    "demo"
+  ],
+  "license": "MIT",
+  "homepage": "https://zingtech.nz",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
